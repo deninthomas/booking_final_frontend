@@ -1,0 +1,18 @@
+{
+  
+    "title": "Sign up",
+    "subtitle": "Sign up to know more ...",
+    "firstName": "Your Name",
+    "lastName": "Last Name",
+    "phone": "Phone",
+    "email": "Email",
+    "password": "Password",
+    "rolePrompt": "Check Whether You Want to sign up As ADMIN or USER",
+    "admin": "Admin",
+    "user": "User",
+    "signupButton": "Sign up",
+    "or": "or",
+    "alreadyHaveAccount": "Already have an account?",
+    "signin": "Sign in"
+
+}

@@ -1,0 +1,9 @@
+{
+    "apptitle":"Zoha Bookings",
+    "taskbar":{
+        "menu":{
+            "dashboard": "Dashboard",
+            "control":"Control Center"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "title_login": "Sign In",
+  "email_value": "Email",
+
+  "password_value": "Password",
+  "button_login": "Login",
+
+  "login_success": "Login Successfully",
+  "forgot_password": "Forgot Password?",
+  "not_a_member": "Not a Member yet?",
+  "signup": "Sign Up"
+}

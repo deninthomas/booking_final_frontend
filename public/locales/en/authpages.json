@@ -1,0 +1,25 @@
+{
+    "signupPage": {
+      "title": "Sign Up",
+      "subtitle": "Create a new account",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "phone": "Phone",
+      "email": "Email",
+      "password": "Password",
+      "rolePrompt": "Select your role",
+      "admin": "Admin",
+      "user": "User",
+      "signupButton": "Sign Up",
+      "or": "or",
+      "alreadyHaveAccount": "Already have an account?",
+      "signin": "Sign In",
+      "firstNameRequired": "First name is required",
+      "lastNameRequired": "Last name is required",
+      "phoneRequired": "Phone number must be at least 10 digits",
+      "emailRequired": "Email is required",
+      "passwordRequired": "Password is required",
+      "roleRequired": "Role is required"
+    }
+  }
+  

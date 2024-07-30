@@ -1,0 +1,53 @@
+{
+    "addproduct": {
+        "name": "Name",
+        "description": "Description",
+        "price": "Price",
+        "place": "Place",
+        "category": "Category",
+        "capacity": "Capacity",
+        "amenities": "Amenities",
+        "wifi": "WiFi",
+        "parking": "Parking",
+        "pool": "Pool",
+        "gym": "Gym",
+        "bookingDates": "Booking Dates",
+        "startDate": "Start Date",
+        "endDate": "End Date",
+        "uploadImages": "Upload Images",
+        "dragDropImages": "Drag and drop some images here, or click to select images",
+        "maxFileSize": "Max file size: 70KB",
+        "maxFiles": "You can upload up to 3 files",
+        "save": "Save",
+        "selectCategory": "Select Category",
+        "deluxe": "Deluxe",
+        "single": "Single",
+        "dormitory": "Dormitory",
+        "nameRequired": "Name is required",
+        "descriptionRequired": "Description is required",
+        "priceRequired": "Price is required",
+        "placeRequired": "Place is required",
+        "categoryRequired": "Category is required",
+        "capacityRequired": "Capacity is required",
+        "amenitiesRequired": "At least one amenity is required",
+        "fileTooLarge": "One or more files are too large"
+    },
+    "checkItems": {
+        "addcart": "Add to Cart"
+    },
+    "hotelDetails": {
+        "hotelDetails": "Hotel Details",
+        "carouselAlt": "Hotel {{index}}",
+        "hotelInformation": "Hotel Information",
+        "amenities": "Amenities",
+        "roomSelection": "Room Selection",
+        "selectRoom": "Select Room",
+        "enterBookingDetails": "Enter Booking Details",
+        "startDate": "Start Date",
+        "endDate": "End Date",
+        "confirmBooking": "Confirm Booking",
+        "additionalInfo": "Additional Information",
+        "bookingDates": "Booking Dates",
+        "persons": "Number of Persons"
+    }
+}
